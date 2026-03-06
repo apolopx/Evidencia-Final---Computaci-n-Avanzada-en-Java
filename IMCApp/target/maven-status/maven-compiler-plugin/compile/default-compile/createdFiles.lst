@@ -1,0 +1,12 @@
+com\imc\dao\UsuarioDAO.class
+com\imc\dao\IMCDAO.class
+com\mycompany\imcapp\controller\TestConexionServlet.class
+com\mycompany\imcapp\JakartaRestConfiguration.class
+com\imc\model\Usuario.class
+com\mycompany\imcapp\resources\IMCResource.class
+com\imc\model\RegistroIMC.class
+com\mycompany\imcapp\controller\CalculoIMCServlet.class
+com\mycompany\imcapp\controller\LoginServlet.class
+com\mycompany\imcapp\controller\RegistroServlet.class
+TestConexion.class
+com\imc\util\ConexionDB.class
